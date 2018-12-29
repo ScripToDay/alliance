@@ -1,0 +1,33 @@
+{
+  "groups": {
+    "usersPerGroup": 15,
+    "judgesPerGroup": 3
+  },
+  "vkGroup": {
+    "groupId": "175683791",
+    "groupLink": "https://vk.com/public175683791"
+  },
+  "db": {
+    "host": "localhost",
+    "user": "user",
+    "password": "password",
+    "dbName": "vkBot"
+  },
+  "vk": {
+    "token": "apiTokenOfGroup",
+    "login": "login of user in vk (it is important!)",
+    "password": "user`s password (it is important!)"
+  },
+  "fines": {
+    "notPosted": 3,
+    "notLiked": 5,
+    "notAppreciate": 4,
+    "notCommented": 5,
+    "notSent": 3,
+    "notLikedPercent": 60,
+    "4lazy": 10
+  },
+  "admins": [
+    424390314
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "one_time": false,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1\"}",
+        "label": "Создать группу"
+      },
+      "color": "primary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1\"}",
+        "label": "Запустить обязательное задание"
+      },
+      "color": "primary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1\"}",
+        "label": "Заблокировать пользователя"
+      },
+      "color": "primary"
+    },
+      {
+        "action": {
+          "type": "text",
+          "payload": "{\"button\": \"1\"}",
+          "label": "Разблокировать пользователя"
+        },
+        "color": "primary"
+      }],
+    [{
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1\"}",
+        "label": "Статистика"
+      },
+      "color": "primary"
+    },
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1\"}",
+        "label": "Показать пользователей"
+      },
+      "color": "primary"
+    }]
+  ]
+}

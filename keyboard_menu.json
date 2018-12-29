@@ -1,0 +1,29 @@
+{
+  "one_time": false,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1\"}",
+        "label": "Отправить пост"
+      },
+      "color": "primary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"2\"}",
+        "label": "Выполнить ежедневное задание"
+      },
+      "color": "primary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"3\"}",
+        "label": "Статистика"
+      },
+      "color": "primary"
+    }]
+  ]
+}
